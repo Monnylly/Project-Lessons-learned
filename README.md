@@ -18,6 +18,9 @@
 *Você deve desenvolver uma página HTML estilizada com CSS.
 
 --
+## Observação
+
+As únicas estruturas adicionada ao projeto foram os aquivos de style.css e index.html, e incluida arquivo de imagem eu.jpg. Toda estrutura veio pronta para complemento do projeto.
 
 
 ## Requisitos
